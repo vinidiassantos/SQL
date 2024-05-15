@@ -3,9 +3,6 @@ SELECT
 SELECT coluna1, coluna2
 FROM tabela
 
-SELECT *
-FROM tabela
-
 -- SQL Server, Postgres, Oracle, mySql
 SELECT coluna1, coluna2
 FROM tabela
